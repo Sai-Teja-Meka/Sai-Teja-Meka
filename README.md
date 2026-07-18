@@ -7,7 +7,7 @@ Currently building LLM evaluation and observability tooling.
 
 - **[Chronos](https://github.com/Sai-Teja-Meka/Chronos)** — event-sourced time-travel debugger for LLM conversations: rewind, fork "what-if" branches, compare timelines. v0.1.0, 29 ms median replay on a 1,050-event conversation.
 - **[Agent-Persona-Engine](https://github.com/Sai-Teja-Meka/Agent-Persona-Engine)** — chat with characters from a novel, grounded in the actual text, with persistent hybrid memory (Neo4j + ChromaDB).
-- **[∞ Forge](https://github.com/Sai-Teja-Meka/infinity-forge)** — self-compounding verified code library: 105 LLM-generated atoms compounded into 11,500 verified functions through mechanical composition — no LLM in the compounder, no hallucination in the output.
+- **[∞ Forge](https://github.com/Sai-Teja-Meka/infinity-forge)** — self-compounding verified code library: 9 hand-written seeds → 114 LLM-generated atoms → 11,509 functions verified for correctness through a six-layer cascade, no LLM in the compounder; 59.7% / 46.8% of L2/L3 survivors additionally exhibit behaviorally rich output ([measured](https://github.com/Sai-Teja-Meka/infinity-forge/blob/main/RESULTS.md)).
 
 ## Today's iteration
 
