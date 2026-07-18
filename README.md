@@ -24,10 +24,5 @@ Regenerated daily by a GitHub Action — same rule, new seed.
 </picture>
 
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sai-Teja-Meka&show_icons=true&hide_border=true&bg_color=0b0e1a&title_color=818cf8&icon_color=0ea5a4&text_color=94a3b8&ring_color=eab308" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Teja-Meka&layout=compact&hide_border=true&bg_color=0b0e1a&title_color=818cf8&text_color=94a3b8" />
-</p>
-
-<p align="center">
   <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=Sai-Teja-Meka&hide_border=true&background=0b0e1a&ring=eab308&fire=eab308&currStreakLabel=818cf8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" />
 </p>
